@@ -1,0 +1,14 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+pubspec.lock
+
+# Build outputs
+/build/
+android/app/build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Other
+.idea/
+.vscode/
